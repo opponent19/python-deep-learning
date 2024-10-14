@@ -5,3 +5,4 @@ personal for python learning and researching
 
 - 02_data_type are reasearch and created on 14-Oct-2024 The content is well reasearch and reffer from youtube video of chai with code, and other sources on google
 
+- 03_internal_walking are reasearch and created on 14-Oct-2024 The content is well research and reffer from youtube video of chai with code, and other source on google 
