@@ -1,6 +1,6 @@
+Variable donot have datatype value inside the memory have
 
-
-garbage collection of str and num are late or we can say it is perpously gitve time because this optimse the performance 
+number are not immidiately collected by garbage collectore 
 
 
 code : (the reference is change in between that is why output is changed)
